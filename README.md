@@ -39,7 +39,7 @@ The website includes essential meta tags for SEO such as:
 ✅ SEO helps the institute appear on Google when users search for terms like:
 - *Computer Institute in Ichalkaranji*
 - *Tally or DOA courses ichalkaranji*
-- *Best MS Office training in Kolhapur region*, etc.
+- *Best MS Office training in Ichalkaranji region*, etc.
 
 ---
 
@@ -62,7 +62,7 @@ The website includes essential meta tags for SEO such as:
 
 ## 🙋‍♂️ Developer
 
-Developed by **Vivek Rokadi** and **Preetam Patil** – Web developers and founders of [Nova Next](#), specializing in responsive business websites and SEO-optimized solutions.
+Developed by **Vivek Rokadi** and **Preetam Patil** – Web developers and founders of [Nova Next], specializing in responsive business websites and SEO-optimized solutions.
 
 ---
 
